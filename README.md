@@ -11,4 +11,4 @@ Using Logs to Help You Track Down an Issue in Windows
 
 The scenario:
 Your computer is having some issues and you can't seem to figure out what's wrong. Argh! Dig through the logs to figure out how to fix these issues.
-You'll use logs to identify issues on a Windows VM, which you'll then fix using the knowledge you've gained from the other labs that you've completed.
+You'll use logs to identify issues on a Windows VM.
